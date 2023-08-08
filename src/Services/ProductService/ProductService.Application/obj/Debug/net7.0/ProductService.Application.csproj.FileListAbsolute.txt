@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\Services\ProductService\ProductService.Application\bin\Debug\net7.0\ProductService.Application.deps.json
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\Services\ProductService\ProductService.Application\bin\Debug\net7.0\ProductService.Application.dll
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\Services\ProductService\ProductService.Application\bin\Debug\net7.0\ProductService.Application.pdb
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\Services\ProductService\ProductService.Application\bin\Debug\net7.0\ProductService.Domain.dll
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\Services\ProductService\ProductService.Application\bin\Debug\net7.0\ProductService.Domain.pdb
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\Services\ProductService\ProductService.Application\obj\Debug\net7.0\ProductService.Application.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\Services\ProductService\ProductService.Application\obj\Debug\net7.0\ProductService.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\Services\ProductService\ProductService.Application\obj\Debug\net7.0\ProductService.Application.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\Services\ProductService\ProductService.Application\obj\Debug\net7.0\ProductService.Application.AssemblyInfo.cs
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\Services\ProductService\ProductService.Application\obj\Debug\net7.0\ProductService.Application.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\Services\ProductService\ProductService.Application\obj\Debug\net7.0\ProductService.Application.csproj.CopyComplete
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\Services\ProductService\ProductService.Application\obj\Debug\net7.0\ProductService.Application.dll
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\Services\ProductService\ProductService.Application\obj\Debug\net7.0\refint\ProductService.Application.dll
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\Services\ProductService\ProductService.Application\obj\Debug\net7.0\ProductService.Application.pdb
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\Services\ProductService\ProductService.Application\obj\Debug\net7.0\ref\ProductService.Application.dll

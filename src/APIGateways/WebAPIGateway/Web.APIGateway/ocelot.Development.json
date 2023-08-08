@@ -1,0 +1,22 @@
+﻿{
+  "GlobalConfiguration": {
+    "BaseUrl": "http://localhost:5000",
+    "ServiceDiscoveryProvider": {
+      "Host": "localhost"
+    }
+  },
+  "Routes": [
+    {
+      "ServiceName": "OrderService"
+    },
+    {
+      "ServiceName": "ProductService"
+    },
+    {
+      "ServiceName": "SourcingService"
+    },
+    {
+      "ServiceName": "SourcingService"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+﻿{
+  "GlobalConfiguration": {
+    "ServiceDiscoveryProvider": {
+      "Scheme": "http",
+      "Port": 8500,
+      "Type": "Consul"
+    }
+  },
+
+  "Routes": [
+    {
+      "UseServiceDiscovery": true,
+      "UpStreamScheme": "http",
+      "UpstreamPathTemplate": "/api/Product/{everything}",
+      "UpstreamHttpMethod": [ "GET", "POST", "PUT", "DELETE" ],
+      "DownstreamScheme": "http",
+      "DownstreamPathTemplate": "/api/Product/{everything}"
+    },
+    {
+      "UseServiceDiscovery": true,
+      "UpStreamScheme": "http",
+      "UpstreamPathTemplate": "/api/Auction/{everything}",
+      "UpstreamHttpMethod": [ "GET", "POST", "PUT", "DELETE" ],
+      "DownstreamScheme": "http",
+      "DownstreamPathTemplate": "/api/Auction/{everything}"
+    },
+    {
+      "UseServiceDiscovery": true,
+      "UpStreamScheme": "http",
+      "UpstreamPathTemplate": "/api/Bid/{everything}",
+      "UpstreamHttpMethod": [ "GET", "POST" ],
+      "DownstreamScheme": "http",
+      "DownstreamPathTemplate": "/api/Bid/{everything}"
+    },
+    {
+      "UseServiceDiscovery": true,
+      "UpStreamScheme": "http",
+      "UpstreamPathTemplate": "/api/Order/{everything}",
+      "UpstreamHttpMethod": [ "GET", "POST" ],
+      "DownstreamScheme": "http",
+      "DownstreamPathTemplate": "/api/Order/{everything}"
+    }
+  ]
+}

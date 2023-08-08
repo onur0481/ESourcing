@@ -1,0 +1,12 @@
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\BuildingBlocks\EventBus\bin\Debug\net7.0\EventBus.deps.json
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\BuildingBlocks\EventBus\bin\Debug\net7.0\EventBus.dll
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\BuildingBlocks\EventBus\bin\Debug\net7.0\EventBus.pdb
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\BuildingBlocks\EventBus\obj\Debug\net7.0\EventBus.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\BuildingBlocks\EventBus\obj\Debug\net7.0\EventBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\BuildingBlocks\EventBus\obj\Debug\net7.0\EventBus.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\BuildingBlocks\EventBus\obj\Debug\net7.0\EventBus.AssemblyInfo.cs
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\BuildingBlocks\EventBus\obj\Debug\net7.0\EventBus.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\BuildingBlocks\EventBus\obj\Debug\net7.0\EventBus.dll
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\BuildingBlocks\EventBus\obj\Debug\net7.0\refint\EventBus.dll
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\BuildingBlocks\EventBus\obj\Debug\net7.0\EventBus.pdb
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\BuildingBlocks\EventBus\obj\Debug\net7.0\ref\EventBus.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "N8BMnBczAbD0pFvN6e9e7qdVqFqAAPBJfsxikVwf1qM=",
+  "Source": "SourcingService.API",
+  "BasePath": "_content/SourcingService.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

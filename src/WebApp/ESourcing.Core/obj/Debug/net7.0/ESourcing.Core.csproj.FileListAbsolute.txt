@@ -1,0 +1,12 @@
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\WebApp\ESourcing.Core\bin\Debug\net7.0\ESourcing.Core.deps.json
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\WebApp\ESourcing.Core\bin\Debug\net7.0\ESourcing.Core.dll
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\WebApp\ESourcing.Core\bin\Debug\net7.0\ESourcing.Core.pdb
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\WebApp\ESourcing.Core\obj\Debug\net7.0\ESourcing.Core.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\WebApp\ESourcing.Core\obj\Debug\net7.0\ESourcing.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\WebApp\ESourcing.Core\obj\Debug\net7.0\ESourcing.Core.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\WebApp\ESourcing.Core\obj\Debug\net7.0\ESourcing.Core.AssemblyInfo.cs
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\WebApp\ESourcing.Core\obj\Debug\net7.0\ESourcing.Core.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\WebApp\ESourcing.Core\obj\Debug\net7.0\ESourcing.Core.dll
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\WebApp\ESourcing.Core\obj\Debug\net7.0\refint\ESourcing.Core.dll
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\WebApp\ESourcing.Core\obj\Debug\net7.0\ESourcing.Core.pdb
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\WebApp\ESourcing.Core\obj\Debug\net7.0\ref\ESourcing.Core.dll

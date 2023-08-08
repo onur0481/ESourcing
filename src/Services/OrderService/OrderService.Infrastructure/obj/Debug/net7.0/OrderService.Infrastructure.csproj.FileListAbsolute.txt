@@ -1,0 +1,17 @@
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\Services\OrderService\OrderService.Infrastructure\bin\Debug\net7.0\OrderService.Infrastructure.deps.json
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\Services\OrderService\OrderService.Infrastructure\bin\Debug\net7.0\OrderService.Infrastructure.runtimeconfig.json
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\Services\OrderService\OrderService.Infrastructure\bin\Debug\net7.0\OrderService.Infrastructure.dll
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\Services\OrderService\OrderService.Infrastructure\bin\Debug\net7.0\OrderService.Infrastructure.pdb
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\Services\OrderService\OrderService.Infrastructure\bin\Debug\net7.0\OrderService.Domain.dll
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\Services\OrderService\OrderService.Infrastructure\bin\Debug\net7.0\OrderService.Domain.pdb
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net7.0\OrderService.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net7.0\OrderService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net7.0\OrderService.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net7.0\OrderService.Infrastructure.AssemblyInfo.cs
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net7.0\OrderService.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net7.0\OrderService.Infrastructure.csproj.CopyComplete
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net7.0\OrderService.Infrastructure.dll
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net7.0\refint\OrderService.Infrastructure.dll
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net7.0\OrderService.Infrastructure.pdb
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net7.0\OrderService.Infrastructure.genruntimeconfig.cache
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net7.0\ref\OrderService.Infrastructure.dll

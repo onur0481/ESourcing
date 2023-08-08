@@ -1,0 +1,17 @@
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\WebApp\ESourcing.Infrastructure\bin\Debug\net7.0\ESourcing.Infrastructure.deps.json
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\WebApp\ESourcing.Infrastructure\bin\Debug\net7.0\ESourcing.Infrastructure.runtimeconfig.json
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\WebApp\ESourcing.Infrastructure\bin\Debug\net7.0\ESourcing.Infrastructure.dll
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\WebApp\ESourcing.Infrastructure\bin\Debug\net7.0\ESourcing.Infrastructure.pdb
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\WebApp\ESourcing.Infrastructure\bin\Debug\net7.0\ESourcing.Core.dll
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\WebApp\ESourcing.Infrastructure\bin\Debug\net7.0\ESourcing.Core.pdb
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\WebApp\ESourcing.Infrastructure\obj\Debug\net7.0\ESourcing.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\WebApp\ESourcing.Infrastructure\obj\Debug\net7.0\ESourcing.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\WebApp\ESourcing.Infrastructure\obj\Debug\net7.0\ESourcing.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\WebApp\ESourcing.Infrastructure\obj\Debug\net7.0\ESourcing.Infrastructure.AssemblyInfo.cs
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\WebApp\ESourcing.Infrastructure\obj\Debug\net7.0\ESourcing.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\WebApp\ESourcing.Infrastructure\obj\Debug\net7.0\ESourcing.Infrastructure.csproj.CopyComplete
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\WebApp\ESourcing.Infrastructure\obj\Debug\net7.0\ESourcing.Infrastructure.dll
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\WebApp\ESourcing.Infrastructure\obj\Debug\net7.0\refint\ESourcing.Infrastructure.dll
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\WebApp\ESourcing.Infrastructure\obj\Debug\net7.0\ESourcing.Infrastructure.pdb
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\WebApp\ESourcing.Infrastructure\obj\Debug\net7.0\ESourcing.Infrastructure.genruntimeconfig.cache
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\WebApp\ESourcing.Infrastructure\obj\Debug\net7.0\ref\ESourcing.Infrastructure.dll

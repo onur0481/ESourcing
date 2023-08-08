@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iGlK1yHOVTYwQJlXUbdHRsl3s/khSTBnhezJpF0mrmcZq2kR5Yeha42PWkCl/sT7O16H5aL70cIyClnwQwV+LQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\ESourcingMicroService\\ESourcing\\src\\Services\\ProductService\\ProductService.Domain\\ProductService.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\mongodb.bson\\2.19.1\\mongodb.bson.2.19.1.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

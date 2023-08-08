@@ -1,0 +1,12 @@
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\Services\SourcingService\SourcingService.Domain\bin\Debug\net7.0\SourcingService.Domain.deps.json
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\Services\SourcingService\SourcingService.Domain\bin\Debug\net7.0\SourcingService.Domain.dll
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\Services\SourcingService\SourcingService.Domain\bin\Debug\net7.0\SourcingService.Domain.pdb
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\Services\SourcingService\SourcingService.Domain\obj\Debug\net7.0\SourcingService.Domain.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\Services\SourcingService\SourcingService.Domain\obj\Debug\net7.0\SourcingService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\Services\SourcingService\SourcingService.Domain\obj\Debug\net7.0\SourcingService.Domain.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\Services\SourcingService\SourcingService.Domain\obj\Debug\net7.0\SourcingService.Domain.AssemblyInfo.cs
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\Services\SourcingService\SourcingService.Domain\obj\Debug\net7.0\SourcingService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\Services\SourcingService\SourcingService.Domain\obj\Debug\net7.0\SourcingService.Domain.dll
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\Services\SourcingService\SourcingService.Domain\obj\Debug\net7.0\refint\SourcingService.Domain.dll
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\Services\SourcingService\SourcingService.Domain\obj\Debug\net7.0\SourcingService.Domain.pdb
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\Services\SourcingService\SourcingService.Domain\obj\Debug\net7.0\ref\SourcingService.Domain.dll

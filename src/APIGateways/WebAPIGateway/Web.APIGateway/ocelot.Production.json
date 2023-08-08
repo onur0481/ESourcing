@@ -1,0 +1,42 @@
+﻿{
+  "GlobalConfiguration": {
+    "BaseUrl": "http://webapigateway.api:5000",
+    "ServiceDiscoveryProvider": {
+      "Host": "c_consul"
+    }
+  },
+  "Routes": [
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "order.api",
+          "Port": 80
+        }
+      ]
+    },
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "product.api",
+          "Port": 80
+        }
+      ]
+    },
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "sourcing.api",
+          "Port": 80
+        }
+      ]
+    },
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "sourcing.api",
+          "Port": 80
+        }
+      ]
+    }
+  ]
+}

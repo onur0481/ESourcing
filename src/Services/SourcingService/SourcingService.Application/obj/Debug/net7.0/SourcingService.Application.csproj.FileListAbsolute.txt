@@ -1,0 +1,17 @@
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\Services\SourcingService\SourcingService.Application\bin\Debug\net7.0\SourcingService.Application.deps.json
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\Services\SourcingService\SourcingService.Application\bin\Debug\net7.0\SourcingService.Application.dll
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\Services\SourcingService\SourcingService.Application\bin\Debug\net7.0\SourcingService.Application.pdb
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\Services\SourcingService\SourcingService.Application\bin\Debug\net7.0\EventBus.dll
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\Services\SourcingService\SourcingService.Application\bin\Debug\net7.0\SourcingService.Domain.dll
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\Services\SourcingService\SourcingService.Application\bin\Debug\net7.0\EventBus.pdb
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\Services\SourcingService\SourcingService.Application\bin\Debug\net7.0\SourcingService.Domain.pdb
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\Services\SourcingService\SourcingService.Application\obj\Debug\net7.0\SourcingService.Application.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\Services\SourcingService\SourcingService.Application\obj\Debug\net7.0\SourcingService.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\Services\SourcingService\SourcingService.Application\obj\Debug\net7.0\SourcingService.Application.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\Services\SourcingService\SourcingService.Application\obj\Debug\net7.0\SourcingService.Application.AssemblyInfo.cs
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\Services\SourcingService\SourcingService.Application\obj\Debug\net7.0\SourcingService.Application.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\Services\SourcingService\SourcingService.Application\obj\Debug\net7.0\SourcingService.Application.csproj.CopyComplete
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\Services\SourcingService\SourcingService.Application\obj\Debug\net7.0\SourcingService.Application.dll
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\Services\SourcingService\SourcingService.Application\obj\Debug\net7.0\refint\SourcingService.Application.dll
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\Services\SourcingService\SourcingService.Application\obj\Debug\net7.0\SourcingService.Application.pdb
+C:\Users\PC\source\repos\ESourcingMicroService\ESourcing\src\Services\SourcingService\SourcingService.Application\obj\Debug\net7.0\ref\SourcingService.Application.dll
