@@ -1,17 +1,17 @@
 #ESourcing
 ESourcing .net7 ile yazılmış açık attırma uygulamasıdır. Bu uygulamada kullanıcı kaydı, girişi daha sonra ise istedikleri bir ürüne açık arttırmaya katılabilir. Ayrıca admin olan kullanıcı açık arttırmayı sonuçlandırıp kapatabilir.
 
--FluentValidation (Validasyonlar için kullanılan kütüphane)
--Docker
--Seq (Loglama için kullanılan görsel arayüz)
--DDD
--CQRS
--ApiGateway
--Consul
--RabbitMQ
--SignalR
--MongoDB
--MSSQL
+- FluentValidation (Validasyonlar için kullanılan kütüphane)
+- Docker
+- Seq (Loglama için kullanılan görsel arayüz)
+- DDD
+- CQRS
+- ApiGateway
+- Consul
+- RabbitMQ
+- SignalR
+- MongoDB
+- MSSQL
 
 
 
